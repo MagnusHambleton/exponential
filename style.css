@@ -16,6 +16,12 @@ body {
   margin-bottom: 200px;
 }
 
+.navigation-bar {
+  background-color: #eace19;
+  padding:10px;
+  margin:0px;
+}
+
 .question {
   font-size: 40px;
   text-align: left;
@@ -95,6 +101,10 @@ button:active {
     margin:0 auto;
 }
 
+.title {
+  font-size: 50px;
+}
+
 .text {
     max-width: 920px;
 
@@ -116,9 +126,11 @@ button:active {
 
 /* Checkboxes */
 h1 {
-  font-weight: 400;
+  font-size: 50px;
   margin-top: 0;
 }
+
+
 .control-group {
   display: inline-block;
   vertical-align: top;
